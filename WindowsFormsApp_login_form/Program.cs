@@ -16,7 +16,7 @@ namespace WindowsFormsApp_login_form
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Employee_Details());
+            Application.Run(new Form1());
         }
     }
 }
